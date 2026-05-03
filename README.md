@@ -86,6 +86,6 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 |google|software engineer, phd, early career, 2026 start|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4365572950)||
 |google|software engineer, phd, early career, compute infrastructure, spatial flexibility|cracow, małopolskie, poland|[🔗](https://www.linkedin.com/jobs/view/4383209565)||
 |google|software engineer, phd, early career, compute infrastructure, spatial flexibility|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4382459042)||
-|google|software engineer, phd, performance, reliability, observability, early careers|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4393818003)||
+|google|software engineer, phd, gce control plane, early career|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4404744930)||
 |google|software engineer, tpu compiler, phd, early careers|london, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4366898452)||
 <!-- END PHDS -->
