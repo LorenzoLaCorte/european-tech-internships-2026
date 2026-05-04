@@ -38,8 +38,21 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 |amazon|2026 software dev engineer intern - uk|london, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4308097460)||
 |amazon|software development engineer internship - vaga para mulheres, ies- latech|deventer, overijssel, netherlands|[🔗](https://www.linkedin.com/jobs/view/4342905273)||
 |amazon|software development intern, intech|deventer, overijssel, netherlands|[🔗](https://www.linkedin.com/jobs/view/4334183568)||
+|aldoria|internship – scientific software engineering|ottignies-louvain-la-neuve, walloon region, belgium|[🔗](https://www.linkedin.com/jobs/view/4397351410)||
+|chaos|software development internship (foundational training)|sofia, sofia city, worldwide|[🔗](https://www.linkedin.com/jobs/view/4389291833)||
 |comena|software engineering intern|munich, bavaria, germany|[🔗](https://www.linkedin.com/jobs/view/4309748645)||
 |deductive ai|software engineer intern, london|london, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4318516271)||
+|doubleverify|software engineering intern|ghent, flemish region, belgium|[🔗](https://www.linkedin.com/jobs/view/4385349345)||
+|draftkings inc.|software engineering intern|sofia, sofia city, worldwide|[🔗](https://www.linkedin.com/jobs/view/4385607611)||
+|infineon technologies|internship - software engineer (f/m/div)|linz, upper austria, austria|[🔗](https://www.linkedin.com/jobs/view/4389719726)||
+|motisha|internship software engineer|bruges, flemish region, belgium|[🔗](https://www.linkedin.com/jobs/view/4398429289)||
+|nokia|bell labs master student internship on building novel software development tools (master)|antwerp, flemish region, belgium|[🔗](https://www.linkedin.com/jobs/view/4349723696)||
+|procter & gamble|software engineering internship|mechelen, flemish region, belgium|[🔗](https://www.linkedin.com/jobs/view/4365519019)||
+|progress software|software engineer intern - c# & javascript|sofia, sofia city, worldwide|[🔗](https://www.linkedin.com/jobs/view/4404589310)||
+|progress software|software engineer intern - c#|sofia, sofia city, worldwide|[🔗](https://www.linkedin.com/jobs/view/4404587312)||
+|sap|sap ixp intern - software developer for circular economy cloud applications|sofia, sofia city, worldwide|[🔗](https://www.linkedin.com/jobs/view/4396380045)||
+|septentrio part of hexagon|internship  innovative software application/tooling (with ai/ml component)  leuven|leuven, flemish region, belgium|[🔗](https://www.linkedin.com/jobs/view/4397612707)||
+|septentrio part of hexagon|internship  innovative software application/tooling (with ai/ml component)|leuven, flemish region, belgium|[🔗](https://www.linkedin.com/jobs/view/4397258859)||
 |taktile|software engineer intern|berlin, berlin, germany|[🔗](https://www.linkedin.com/jobs/view/4342501529)||
 |taktile|software engineer intern|iaşi, iaşi, romania|[🔗](https://www.linkedin.com/jobs/view/4318298888)||
 |vanderlande|internship: development of an automated tool for plc software version analysis and performance monitoring|veghel, north brabant, netherlands|[🔗](https://www.linkedin.com/jobs/view/4380283513)||
@@ -51,15 +64,9 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 <!-- BEGIN ML_INTERNSHIPS -->
 |company|title|location|link|
 |---|---|---|---|
-|apple|research scientist intern – human-centric generative ai|munich, bavaria, germany|[🔗](https://www.linkedin.com/jobs/view/4360015036)||
 |apple|software engineering intern (machine learning & ai workflows)|munich, bavaria, germany|[🔗](https://www.linkedin.com/jobs/view/4393010506)||
 |meta|research scientist intern, ai/ml, core ads growth (phd)|london, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4350561859)||
 |meta|research scientist intern, ai/ml, core ads growth (phd)|zurich, zurich, switzerland|[🔗](https://www.linkedin.com/jobs/view/4350551757)||
-|alcon|ai engineer intern - early careers program|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4398379938)||
-|clarios|intern (m/f/d) for ai and data analysis in vehicle lab|hannover, lower saxony, germany|[🔗](https://www.linkedin.com/jobs/view/4359253694)||
-|electrolux professional group|ai developer - intern|pordenone, friuli-venezia giulia, italy|[🔗](https://www.linkedin.com/jobs/view/4404999077)||
-|enersys|data engineering intern - ai/ml systems|zug, zug, switzerland|[🔗](https://www.linkedin.com/jobs/view/4404208113)||
-|fanuc europe|intern sustainability|contern, luxembourg, luxembourg|[🔗](https://www.linkedin.com/jobs/view/4390376031)||
 |leeroo|research scientist intern – phd (ai agentic systems)|london, england, united kingdom|[🔗](https://www.linkedin.com/jobs/view/4270923748)||
 <!-- END ML_INTERNSHIPS -->
 
@@ -70,6 +77,7 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 |chainalysis|software engineer i, new grad - aarhus office|aarhus, central denmark region, denmark|[🔗](https://www.linkedin.com/jobs/view/4405837429)||
 |codeway|software engineer, fullstack (new grad)|istanbul, istanbul, worldwide|[🔗](https://www.linkedin.com/jobs/view/4345850349)||
 |databricks|software engineer - new grad (2026 start) - aarhus|aarhus, central denmark region, denmark|[🔗](https://www.linkedin.com/jobs/view/4297744052)||
+|stripe|software engineer, new grad|dublin, county dublin, ireland|[🔗](https://www.linkedin.com/jobs/view/4408716288)||
 <!-- END NEWGRADS -->
 
 ## PhD and PhD Internship Positions
