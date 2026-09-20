@@ -105,8 +105,4 @@ Whether you're reporting bugs, enhancing documentation, or improving the code, e
 <!-- BEGIN PHDS -->
 |company|title|location|link|
 |---|---|---|---|
-|google|software engineer, early careers, phd, cloud ai|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4320919263)||
-|google|software engineer, performance, reliability, observability, phd, early careers|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4374056681)||
-|google|software engineer, performance, reliability, observability, phd, early career|warsaw, mazowieckie, poland|[🔗](https://www.linkedin.com/jobs/view/4321301694)||
-|nvidia|system software architecture researcher - phd program|roskilde, region zealand, denmark|[🔗](https://www.linkedin.com/jobs/view/4450504287)||
 <!-- END PHDS -->
